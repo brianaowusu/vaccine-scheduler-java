@@ -1,1 +1,2 @@
 # vaccine-scheduler-java
+This is a reservation system in Java, where users schedule time slots for a centralized resource. This system is an appointment scheduler for vaccinations, where the users are patients and caregivers keeping track of vaccine stock and appointments. It stores patient information, and lets users interactively schedule their vaccine appointments and that caregivers use to manage their appointment slots and inventory. This application runs in the command-line terminal and connects to a local SQLite database.
